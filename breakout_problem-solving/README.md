@@ -27,7 +27,7 @@ Instead of taking detailed notes of every step, it is best to write down new ter
 1. Reviewing the lecture repository and seeing if you can describe how the term fits in.
 2. Searching the term on a trusted resource like the Mozilla Developer Network (MDN) website to see if it can shed some light on the subject.
 3. Asking a mentor to help understand the term with some guidance.
-4. Showing up to instructor office hours to ask your instructor about the term.
+4. Showing up to instructor dockside sessions to ask your instructor about the term.
 
 Remember the goal of this dictionary is to be written in your own words so that it is more likely to make sense to **you** upon revisiting.
 
@@ -356,7 +356,7 @@ Let's say we've gone through our processes and problem-solving steps. If you hav
   - Clarifications on definitions or examples.
   - It can help to have an exercise open related to the topic so there is an example to work with and walk through together.
 
-6. Visit during Instructor Office Hours
+6. Visit during Instructor Dockside Sessions
 
 - These hours are here for a reason, ask instructors for clarifications on topics covered in-lecture or on exercises you're working on!
 
